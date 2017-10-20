@@ -1,80 +1,8 @@
-Barracuda
-  -Great
-Blue Tang
-Damselfish
-  -Bicolor
-  -Yellow
-Butterfly fish
-  -Banded
-  -Four-eyed
-  -Spotfin
-Drum fish
-File fish
-  -White spotted
-Angel fish
-  -Gray, French, and Queen
-Grunts
-  -French
-  -Blue-striped
-Trunk fish
-  -Smooth
-Sea horse
-Scorpion fish
-Parrot fish
-  -Stoplight
-  -Redband
-Flounder
-  -Peak
-  -Peacock
-Puffer fish
-  -Sharpnose
-Trigger fish
-Tarpoons
-Slim bodies
-Groupers
-  -Goliath
-Squirrel fish
-Wrasse
-  -Yellowhead
-  -Hogfish
-Moray Eel
-Goat Fish
-  -Spotted
-  -Yellow
-Snapper
-  -Yellowtail
-Glassy Sweeper
-Jolthead-Porgy
-Permit
-Bar Jack
-Horse-eye Jack
-Yellow-head Jawfish
-Harlequin
 Flying Fish
-Trumpetfish
-Porcupine
-Sand diver
-Spotted Drum
-Cowfish
-  -Scrawled
-Rock Beauty
-Ocean Surgeonfish
-Doctorfish
-Chub
-  -Bermuda
-  -Yellow
-Chromis
-  -Blue
-  -Brown
-Sergeant Major
-Harlequin Bass
-Fairy Basslet
-Buehead
 
-
-Schools of fish
-Coral
-Seaweed
+Schools of fish (same and different species)
+Plastic
+Nets
 Sunken plane
 Scrap metal
 
@@ -99,7 +27,7 @@ FISH-
 
   Surgeonfish
     -Blue Tang (adult & Juvenile)
-    -Ocean
+    -Ocean Surgeonfish
     -Doctorfish
 
   Small Oval Fishes:
@@ -154,6 +82,7 @@ FISH-
 
     Chubs
       -Bermuda/Gray Chub
+      -Bermuda/Yellow Chub
       -Topsail Chub
       -Brassy Chub
 
@@ -428,6 +357,8 @@ FISH-
 
     Tilefish
       -Sand Tilefish
+      
+    Flying Fish
 
   Eels:
     Moray Eels
