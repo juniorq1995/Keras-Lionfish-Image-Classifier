@@ -84,18 +84,18 @@ FISH-
   Disk & Large Oval:
   Angelfish
     -Queen (Adult & Juvenile)
-    -Blue
+    -Blue Angelfish
     -Rock Beauty
-    -French (Adult & Juvenile)
-    -Gray
+    -French Angelfish (Adult & Juvenile)
+    -Gray Angelfish
     -Cherubfish
 
   Butterflyfish
-    -Banded
-    -Foureye
-    -Spotfin
-    -Reef
-    -Longsnout
+    -Banded Butterflyfish
+    -Foureye Butterflyfish
+    -Spotfin Butterflyfish
+    -Reef Butterflyfish
+    -Longsnout Butterflyfish
 
   Surgeonfish
     -Blue Tang (adult & Juvenile)
@@ -104,32 +104,32 @@ FISH-
 
   Small Oval Fishes:
     Damselfish
-      -Longfin (Adult & Juvenile)
-      -Dusky (Adult & Juvenile)
-      -Threespot (Adult & Juvenile)
-      -Cocoa
+      -Longfin Damselfish (Adult & Juvenile)
+      -Dusky Damselfish (Adult & Juvenile)
+      -Threespot Damselfish (Adult & Juvenile)
+      -Cocoa Damselfish
       -Beaugregory (Adult & Juvenile)
-      -Bicolor
-      -Yellowtail (Adult & Juvenile)
+      -Bicolor Damselfish
+      -Yellowtail Damselfish (Adult & Juvenile)
       -Sergeant Major
       -Night Sergeant
 
     Chromis
-      -Blue
-      -Brown
+      -Blue Chromis
+      -Brown Chromis
       -Sunshinefish (Adult & Juvenile)
 
     Hamlets
-      -Barred
-      -Butter
-      -Shy
-      -Yellowbelly
-      -Yellowtail
-      -Black
-      -Blue
-      -Indigo
-      -Tan
-      -Hybrid
+      -Barred Hamlet
+      -Butter Hamlet
+      -Shy Hamlet
+      -Yellowbelly Hamlet
+      -Yellowtail Hamlet
+      -Black Hamlet
+      -Blue Hamlet
+      -Indigo Hamlet
+      -Tan Hamlet
+      -Hybrid Hamlet
 
   Silvery Fishes:
     Jacks
@@ -144,8 +144,8 @@ FISH-
       -Palometa
 
     Porgies
-      -Saucereye
-      -Jolthead
+      -Saucereye Porgy
+      -Jolthead Porgy
       -Pluma
       -Sheepshead
 
@@ -153,18 +153,18 @@ FISH-
       -Yellowfin Mojarra
 
     Chubs
-      -Bermuda/Gray
-      -Topsail
-      -Brassy
+      -Bermuda/Gray Chub
+      -Topsail Chub
+      -Brassy Chub
 
     Spadefish
-      -Atlantic
+      -Atlantic Spadefish
 
     Tarpon
-      -Atlantic
+      -Atlantic Tarpon
 
     Barracudas
-      -Great
+      -Great Barracuda
 
     Bonnetmouths
       -Boga
@@ -176,55 +176,55 @@ FISH-
       -Cera
 
     NeedleFish
-      -Flat
-      -Redfin
+      -Flat NeedleFish
+      -Redfin NeedleFish
 
     Halfbeaks
       -Bellyhoo
 
   Groupers/Sea Basses:
     Groupers
-      -Goliath
-      -Nassau
-      -Black
-      -Tiger
-      -Yellowmouth
-      -Yellowfin (Adult & Juvenile)
+      -Goliath Grouper
+      -Nassau Grouper
+      -Black Grouper
+      -Tiger Grouper
+      -Yellowmouth Grouper
+      -Yellowfin Grouper (Adult & Juvenile)
       -Graysby
       -Red Hind
       -Coney
       -Coney (Bicolor variation)
       -Coney (Yellow variation)
-      -Atlantic creolefish
+      -Atlantic Creolefish
 
     Sea Basses
-      -Harlequin (Adult & Juvenile)
+      -Harlequin Bass (Adult & Juvenile)
       -Tobaccofish
-      -Chalk
+      -Chalk Bass
       -Sand Perch
       -Dwarf Sand PErch
-      -Lantern
+      -Lantern Bass
 
     Soapfish
-      -Greater
-      -Freckled
-      -Spotted
+      -Greater Soapfish
+      -Freckled Soapfish
+      -Spotted Soapfish
 
     Basslets
-      -Fairy
-      -Blackcap
-      -Peppermint
-      -Candy
+      -Fairy Basslet
+      -Blackcap Basslet
+      -Peppermint Basslet
+      -Candy Basslet
 
   Grunts and Snappers:
     Grunts
-      -French (Adult & Juvenile)
-      -Blue-striped
-      -Smallmouth
-      -White
+      -French Grunt (Adult & Juvenile)
+      -Blue-striped Grunt
+      -Smallmouth Grunt
+      -White Grunt
       -Cottonwick
-      -Caesar
-      -Spanish
+      -Caesar Grunt
+      -Spanish Grunt
       -Tomtate
       -Sailor's choice
       -Porkfish
@@ -232,15 +232,15 @@ FISH-
       -White Margate
 
     Snappers
-      -Yellowtail
-      -Schoolmaster
-      -Mahogonay
-      -Cubera
-      -Gray
-      -Dog
-      -Mutton
-      -Lane
-      -Blackfin
+      -Yellowtail Snapper
+      -Schoolmaster Snapper
+      -Mahogonay Snapper
+      -Cubera Snapper
+      -Gray Snapper
+      -Dog Snapper
+      -Mutton Snapper
+      -Lane Snapper
+      -Blackfin Snapper
 
   Parrotfish and Wrasses:
     Parrotfish
@@ -720,49 +720,248 @@ INVERTEBRATES-
       
   Echinoderms:
     Feather Stars
-    
+      -Black and White Crinoid
+      -Swimming Crinoid
+      -Golden Crinoid
+      -Beaded Crinoid
+      
     Sea Stars
-    
+      -Cushion Sea Star
+      -Comet Star
+      -Two-Spined Sea Star
+      -Banded Sea Star
+      
     Basket Stars
-    
+      -Giant Basketstar Star
+     
     Brittle Stars
-    
+      -Sponge Brittle Star
+      -Ruby Brittle Star
+      -Reticulated Brittle Star
+      -Spiny Brittle Star
+      -Blunt-Spined Brittle Star
+      -Crevice Brittle Star
+      
     Sea Urchins
-    
+      -Long-Spined Urchin
+      -Rock-Boring Urchin
+      -Reef Urchin
+      -Slate-Pencil Urchin
+      -Variegated Urchin
+      -West Indian Sea Egg
+      -Red Heart Urchin
+      
     Sea Cucumbers
+      -Three-Rowed Sea Cucumber (Normal and Color Variation)
+      -Furry Sea Cucumber
+      -Conical Sea Cucumber
+      -Donkey Dung Sea Cucumber
+      -Tiger Tail Sea Cucumber
+      -Florida Sea Cucumber
+      -Hidden Sea Cucumber
     
   Tunicates & Bryozoans:
     Tunicates
-    
+      -Giant Tunicate
+      -Reef Tunicate
+      -Painted Tunicate
+      -Blue Bell Tunicate
+      -Mangrove Tunicate
+      -Green Tube Tunicate
+      -Encrusting Social Tunicate
+      -White Speck Tunicate
+      -Button Tunicate
+      -Overgrowing Mat Tunicates
+      -Overgrowing Tunicates
+      -Strawberry Tunicate
+      -Black Condominium Tunicate
+      
     Pelagic Tunicates
+      -Salpa maxima
+      -Salpa spp.
+      -Pyrosoma atlanticum
     
     Bryozoans
+      -White Fan Bryozoan
+      -Bleeding Teeth Bryozoan
     
 SPONGES-
 
   Sponges
-
+    -Strawberry Vase Sponge
+    -Azure Vase Sponge
+    -Pink Vase Sponge
+    -Brown Bowl SPonge
+    -Giant Barrel Sponge
+    -Netted Barrel Sponge
+    -Verongula reiswigi
+    -Touch-Me-Not Sponge
+    -Brain Sponge
+    -Tubulate Sponge
+    -Brown Tube Sponge
+    -Brown Clustered Tube Sponge
+    -Orange Elephant Ear Sponge
+    -Citron Sponge
+    -Branching Tube Sponge
+    -Branching Vase Sponge
+    -Callyspongia fallax
+    -Stove-Pipe Sponge
+    -Yellow Tube Sponge
+    -Rough Tube Sponge
+    -Convulated Barrel Sponge
+    -Xestospongia rosariensis
+    -Loggerhead Sponge
+    -Black-Ball Sponge
+    -Bell Sponge
+    -Stinker Sponge
+    -Orange Ball Sponge
+    -Leathery Barrel Sponge
+    -Dark Volcano Sponge
+    -Pitted Sponge
+    -Pink Lumpy Sponge
+    -Lumpy Overgrowing Sponge
+    -Lavender Rope Sponge
+    -Row Pore Rope Sponge
+    -Scattered Pore Rope Sponge
+    -Erect Rope Sponge
+    -Walper's Branching Sponge
+    -Pandaros acanthifolium
+    -Green Finger Sponge
+    -Brown Encrusting Octopus Sponge
+    -Pink and Red Encrusting Sponge
+    -Red Encrusting Sponge
+    -Peach Encrusting Sponge
+    -Star Encrusting Sponge
+    -Orange-Veined Encrusting Sponge
+    -High-Veined Encrusting Sponge
+    -Orange Icing Sponge
+    -Orange Lumpy Encrusting Sponge
+    -Orange Sieve Encrusting Sponge
+    -Viscous Sponge
+    -Brown Variable Sponge
+    -Cliona tenuis
+    -Coral Encrusting Sponge
+    -Variable Boring Sponge
+    -Red Boring Sponge
+    -Dercitus luteus
+    -Smenosspongia conulosa
+    
   Calcareous Sponges
+    -Yellow Calcareous Sponge
+    -White Cryptic Sponge
 
 CORALS-
 
   Fire Corals
-
+    -Branching Fire Coral
+    -Blade Fire Coral
+    
   Lace Corals
-
+    -Rose Lace Coral
+    
   Gorgonians
-
+    -Corky Sea Finger
+    -Encrusting Gorgonian
+    -Black Sea Rod
+    -Bent Sea Rod
+    -Porous Sea Rod
+    -Knobby Sea Rod
+    -Swollen-Knob Candelabrum
+    -Sea Plumes
+    -Bipinnate Sea Plumes
+    -Slimy Sea Plumes
+    -Slit-Pore Sea Rod
+    -Colorful Sea Rod
+    -Common Sea Fan
+    -Venus Sea Fan
+    -Wide-Mesh Sea Fan
+    -Deepwater Sea Fan
+    -Grooved-Blade Sea Whip
+    -Angular Sea Whip
+    -Long Sea Whip
+    -Devil's Sea Whip
+    -bushy Sea Whip
+    -White Telesto
+    
   Black Corals
-
+    -Bushy Black Coral
+    -Feather Black Coral
+    -Gray Sea Fan Black Coral
+    -Hair Net Black Coral
+    -Wire Coral
+    
   Stony Coral
-
+    -Staghorn Coral
+    -Elkhorn Coral
+    -Clubtip Finger Coral
+    -Branched Finger Coral
+    -Thin Finger Coral
+    -Pillar Coral
+    -Diffuse Ivory Bush Coral
+    -Yellow Pencil Coral
+    -Ten-Ray Star Coral
+    -Blushing Star Coral
+    -Lobed Star Coral
+    -Mountainous Star Coral
+    -Boulder Star Coral
+    -Great Star Coral
+    -Smooth Star Coral
+    -Elliptical Star Coral
+    -Golfball Coral
+    -Mustard Hill Coral
+    -Massive Starlet Coral
+    -Lesser Starlet Coral
+    -Symmetrical Brain Coral
+    -Knobby Brain Coral
+    -Grooved Brain Coral
+    -Boulder Brain Coral
+    -Maze Coral
+    -Whitevalley Maze Coral
+    -Rose Coral
+    -Whitestar Sheet Coral
+    -Fragile Saucer Coral
+    -Dimpled Sheet Coral
+    -Sunray Lettuce Coral
+    -Lettuce Coral
+    -Scaled Lettuce Coral
+    -Low Relief Lettuce Coral
+    -Thin Leaf Lettuce Coral
+    -Ridged Cactus Coral
+    -Knobby Cactus Coral
+    -Rough Cactus Coral
+    -Rough Star Coral
+    -Artichoke/Solitary Disk Coral
+    -Atlantic Mushroom Coral
+    -Spiny Flower Coral
+    -Smooth Flower Coral
+    -Orange Cup Coral
+    
   ALGAE-
 
   Brown Algae
-
+    -Sargassum Seaweed
+    -White-Vein Sargassum
+    -Y Branched Algae
+    -Leafy Rolled-Blade Alga
+    -White Scroll Alga
+    -Encrusting Fan-Leaf Alga
+    
   Green Algae
-
+    -Large-Leaf Hanging Vine
+    -Saw-Blade Alga
+    -Sea Perl
+    -Green Bubble Weed
+    -Pinecone Alga
+    -Flat-Top Bristle Bush
+    -Mermaid's Fan
+    -Green Mermaid's Wine Glass
+    -White Mermaid's Wine Glass
+    
   Red Algae
+    -Tubular Thicket Algae
+    -Pink Bush Alga
+    -Crustose Coralline Algae
+    -Burgundy Crust Algae
 
 MARINE REPTILES & MAMMALS-
 
