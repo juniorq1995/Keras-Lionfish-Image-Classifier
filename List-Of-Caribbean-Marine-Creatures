@@ -470,47 +470,299 @@ FISH-
   
 INVERTEBRATES-
 
-  Curstaceans:
-
+  Crustaceans:
+    Spiny Lobsters
+      -Caribbean Spiny Lobster
+      -Spotted Spiny Lobster
+      -Red Banded Lobster
+      
+    Slipper Lobster
+      -Spanish Lobster
+      -Small Spanish Lobster
+      -Sculptured Slipper Lobster
+      
+    Boxer Shrimps
+      -Banded Coral Shrimp
+      -Golden Coral Shrimp
+      
+    Shrimps
+      -Striped Bumblebee Shrimp
+      -Pederson Cleaner Shrimp
+      -Sponge Peppermint Shrimp
+      -Scarlet-Striped Cleaning Shrimp
+      -Spotted Cleaner Shrimp
+      -Sun Anemone Shrimp
+      -Red and White Crinoid Shrimp
+      -Wire Coral Shrimp
+      -Two Claw Shrimp
+      -Red Night Shrimp
+      -Caribbean Velvet Shrimp
+      -Red Snapping Shrimp
+      -Roughback Shrimp
+      -Squat Anemone Shrimp
+      -Antiguan Cave Shrimp
+      
+    Ghost Shrimps
+      -Red-Orange Ghost Shrimp
+      
+    Mantis Shrimps
+      -Dark Mantis
+      -Ciliated Mantis Shrimp
+      
+    Squat Lobsters
+      -Common Squat Lobster
+      
+    Isopods
+      -Cymothoid Isopod
+      
+    Barnacles
+      -Sessile Barnacles
+      
+    True Crabs
+      -Batwing Coral Crab
+      -Channel Clinging Crab
+      -Coral Clinging Crab
+      -Red-Ridged Clinging Crab
+      -Red-Ridged Clinging Crab (yellow-brown color variation)
+      -Gaudy Clown Crab
+      -Common Blue Crab
+      -Ornate Blue Crab
+      -Blotched Swimming Crab
+      -Ocellate Swimming Crab
+      -Achelous floridanus
+      -Blackpoint Sculling Crab
+      -Sargassum Swimming Crab
+      -Redhair Swimming Crab
+      -Nimble Spray Crab
+      -Tidal Spray Crab
+      -Heart Urchin Pea Crab
+      -Yellowline Arrow Crab
+      -Shortfinger Neck Crab
+      -Cryptic Teardrop Crab
+      -Spongy Decorator Crab
+      -Banded Clinging Crab
+      
+    Hermit Crabs
+      -Giant Hermit Crab
+      -White Speckled Hermit Crab
+      -Blue-Eye Hermit Crab
+      -Stareye Hermit Crab
+      -Blue-Legged Hermit Crab
+      -Orangeclaw Hermit Crab
+      -Red Reef Hermit Crab
+      -Hairy Hermit Crab
+      -Red-Stripe Hermit Crab
+      -Polkadotted Hermit Crab
+      -Reticulated Hermit Crab
+      
+    Horshoe Crabs
+      -Horseshoe Crab
+      
   Worms:
+    Flatworms
+      -Leopard Flatworm
+      -Lined Flatworm
+      
+    Fireworms
+      -Bearded Fireworm
+      -Orange Fireworm
+      
+    Tube Worms
+      -Star Horseshoe Worm
+      -Christmas Tree Worm
+      -Red-Spotted Horseshoe Worm
+      -Sea Frost
+      
+    Feather Duster Worms
+      -Split-Crown Feather Duster
+      -Magnificent Feather Duster
+      -Social Feather Duster
+      -Yellow Fanworm
+      -Brown Fanworm
+      -Ruffled Feather Duster
+      -Variegated Feather Duster
+      -Black-Spotted Feather Duster
+      -Shy Feather Duster
+      -Ghost Feather Duster
+      
+    Spaghetti Worms
+      -Medusa Worm
+      
+    Honeycomb Worms
+      -Devil Worm
 
   Gastropods:
-
+    Sap-Sucking Slugs
+      -Lettuce Sea Slug
+      -Ornate Elysia
+      -Painted Elysia
+    
+    Sea Hares
+      -Spotted Sea Hare
+      
+    Nuibranchs
+      -Purple-Spotted Sea Goddess
+      -Flabella engeli
+      -Purple-Ring Nudibranch
+      -Red-tipped Sea Goddess
+      -Crisscross Tritonia
+      
+    Triton Shells
+      -Atlantic Triton's Trumpet
+      
+    Helmet Shells
+      -King Helmet
+    
+    True Conchs
+      -Queen Conch
+      -Milk Conch
+      -Florida Fighting Conch
+      
+    Cowries
+      -Atlantic Gray Cowry
+      
+    Allied Cowries
+      -Flamingo Tongue
+      -Triangular Cyphoma
+      
+    Tulip Shells
+      -True Tulip
+      
+    Turban Shells
+      -West Indian Starsnail
+      -West Indian Top Snail
+      
+    Parasitic Snails
+      -Sharp Eulima
+    
   Cephalopods:
-
+    Squids
+      -Caribbean Reef Squid
+      -Atlantic Brief Squid
+      
+    Octopuses
+      -Caribbean Reef Octopus
+      -Common Octopus
+      -Atantic White-Spotted Octopus
+      
   Bivalves & Chitons:
-
+    Pen Shells
+      -Amber Penshell
+    File Clams
+      -Rough Fileclam
+      -Antillean Fileclam
+      
+    True Oysters
+      -Frond Oyster
+      
+    Thorny Oysters
+      -Atlantic Thorny-Oyster
+      
+    Feather Oysters
+      -Atlantic Wing-Oyster
+      -Flat Tree Oyster
+      
+    Chiton
+      -Fuzzy Chiton
+      -Squamose Chiton
+      -Chiton viridis
+      -Caribbean Slender Chiton
+      
   Cnidarians:
-
+    Hydroid
+      -Feather Hydroid
+      -Branching Hydroid
+      -Christmas Tree Hydroid
+      -Algae Hydroid
+      -White Stinger
+      -Stinging Bush Hydroid
+      
+    Jellyfishes
+      -Moon Jelly
+      -Upsidedown Jelly
+      -Mangrove Upsidedown Jelly
+      -Sea Thimble Jellyfish
+      
+    Corallimorphs
+      -Florida Corallimorph
+      -Warty Corallimorph (Norm & Red variation)
+      -Forked Tentacle Corallimorph
+      -Orange Ball Corallimorph
+      -Cup Corallimorph
+      
+    Sea Anemones
+      -Giant Anemone
+      -Club-Tipped Anemone
+      -Sun Anemone
+      -Beaded Anemone
+      -Warty Sea Anemone
+      -Red Warty Sea Anemone
+      -Branching Anemone
+      -Hidden Anemone
+      -Corkscrew Anemone
+      -Knobby Anemone
+      -Elegant Anemone
+      -Tutle Grass Anemone
+      -Sponge Anemone
+      -Banded Tube-Dwelling Anemone
+      
+    Zoanthids
+      -Mat Zoanthid
+      -White Encrusting Zoanthid
+      -Sponge Zoanthid
+      -Maroon Sponge Zoanthid
+      -Brown Sponge Zoanthid
+      -Golden Zoanthid
+      
+    Comb Jellies
+      -Venus Girdle
+      -Red-Spot Comb Jelly
+      
   Echinoderms:
-
+    Feather Stars
+    
+    Sea Stars
+    
+    Basket Stars
+    
+    Brittle Stars
+    
+    Sea Urchins
+    
+    Sea Cucumbers
+    
   Tunicates & Bryozoans:
-
+    Tunicates
+    
+    Pelagic Tunicates
+    
+    Bryozoans
+    
 SPONGES-
 
-  Sponges:
+  Sponges
 
-  Calcareous Sponges:
+  Calcareous Sponges
 
 CORALS-
 
-  Fire Corals:
+  Fire Corals
 
-  Lace Corals:
+  Lace Corals
 
   Gorgonians
 
-  Black Corals:
+  Black Corals
 
-  Stony Corals:
+  Stony Coral
 
   ALGAE-
 
-  Brown Algae:
+  Brown Algae
 
-  Green Algae:
+  Green Algae
 
-  Red Algae:
+  Red Algae
 
 MARINE REPTILES & MAMMALS-
 
