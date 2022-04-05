@@ -12,4 +12,4 @@ http://www.araa.asn.au/acra/acra2005/papers/clement.pdf
 
  I would also like to thank ImageNet for putting together an sizeable image dataset of Lionfish and other species in the Caribbean Sea.
 
-Thhere are mutliple programs I have used to classify images of the invasive linofish species. The first one is in the folder "first_run". The final perceptron weights are saved in a .H5 file so they can be used later. You will need to install keras to run this program on a dataset of your own choosing. See https://keras.io/#installation for more info no how to etup your computer to run keras.
+There are mutliple programs I have used to classify images of the invasive linofish species. The first one is in the folder "first_run". The final perceptron weights are saved in a .H5 file so they can be used later. You will need to install keras to run this program on a dataset of your own choosing. See https://keras.io/#installation for more info on how to setup your computer to run keras.
